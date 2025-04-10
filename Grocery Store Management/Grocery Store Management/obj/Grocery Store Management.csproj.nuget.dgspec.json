@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\UTE\\NAM II\\HKII\\Lap trinh windows\\DO AN CUOI KY\\Grocery Store Management\\Grocery Store Management\\Grocery Store Management.csproj": {}
+  },
+  "projects": {
+    "D:\\UTE\\NAM II\\HKII\\Lap trinh windows\\DO AN CUOI KY\\Grocery Store Management\\Grocery Store Management\\Grocery Store Management.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UTE\\NAM II\\HKII\\Lap trinh windows\\DO AN CUOI KY\\Grocery Store Management\\Grocery Store Management\\Grocery Store Management.csproj",
+        "projectName": "Grocery Store Management",
+        "projectPath": "D:\\UTE\\NAM II\\HKII\\Lap trinh windows\\DO AN CUOI KY\\Grocery Store Management\\Grocery Store Management\\Grocery Store Management.csproj",
+        "packagesPath": "C:\\Users\\jeaso\\.nuget\\packages\\",
+        "outputPath": "D:\\UTE\\NAM II\\HKII\\Lap trinh windows\\DO AN CUOI KY\\Grocery Store Management\\Grocery Store Management\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jeaso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

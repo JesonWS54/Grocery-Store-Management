@@ -1,0 +1,18 @@
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\bin\Debug\Grocery Store Management.exe.config
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\bin\Debug\Grocery Store Management.exe
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\bin\Debug\Grocery Store Management.pdb
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery Store Management.csproj.AssemblyReference.cache
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery_Store_Management.Properties.Resources.resources
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery Store Management.csproj.GenerateResource.cache
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery Store Management.csproj.CoreCompileInputs.cache
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery Store Management.exe
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery Store Management.pdb
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery_Store_Management.Login.resources
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery_Store_Management.SplashScreen.resources
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery_Store_Management.Customer.resources
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery_Store_Management.Employee.resources
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery_Store_Management.Finance.resources
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery_Store_Management.Inventory.resources
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery_Store_Management.Sales.resources
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\bin\Debug\Guna.UI2.dll
+D:\UTE\NAM II\HKII\Lap trinh windows\DO AN CUOI KY\Grocery Store Management\Grocery Store Management\obj\Debug\Grocery .BECFB463.Up2Date
